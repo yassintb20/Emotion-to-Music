@@ -1,0 +1,5 @@
+!pip install transformers torch torchvision matplotlib opencv-python-headless py2neo
+!pip install spotipy
+!pip install deepface
+!pip install neo4j
+!pip install flask pyngrok
